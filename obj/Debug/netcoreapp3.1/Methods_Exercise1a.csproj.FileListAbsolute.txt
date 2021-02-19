@@ -1,0 +1,13 @@
+C:\Users\hughs\OneDrive\Desktop\Repo\Methods_Exercise1a\Methods_Exercise1a\obj\Debug\netcoreapp3.1\Methods_Exercise1a.csprojAssemblyReference.cache
+C:\Users\hughs\OneDrive\Desktop\Repo\Methods_Exercise1a\Methods_Exercise1a\obj\Debug\netcoreapp3.1\Methods_Exercise1a.AssemblyInfoInputs.cache
+C:\Users\hughs\OneDrive\Desktop\Repo\Methods_Exercise1a\Methods_Exercise1a\obj\Debug\netcoreapp3.1\Methods_Exercise1a.AssemblyInfo.cs
+C:\Users\hughs\OneDrive\Desktop\Repo\Methods_Exercise1a\Methods_Exercise1a\obj\Debug\netcoreapp3.1\Methods_Exercise1a.csproj.CoreCompileInputs.cache
+C:\Users\hughs\OneDrive\Desktop\Repo\Methods_Exercise1a\Methods_Exercise1a\bin\Debug\netcoreapp3.1\Methods_Exercise1a.exe
+C:\Users\hughs\OneDrive\Desktop\Repo\Methods_Exercise1a\Methods_Exercise1a\bin\Debug\netcoreapp3.1\Methods_Exercise1a.deps.json
+C:\Users\hughs\OneDrive\Desktop\Repo\Methods_Exercise1a\Methods_Exercise1a\bin\Debug\netcoreapp3.1\Methods_Exercise1a.runtimeconfig.json
+C:\Users\hughs\OneDrive\Desktop\Repo\Methods_Exercise1a\Methods_Exercise1a\bin\Debug\netcoreapp3.1\Methods_Exercise1a.runtimeconfig.dev.json
+C:\Users\hughs\OneDrive\Desktop\Repo\Methods_Exercise1a\Methods_Exercise1a\bin\Debug\netcoreapp3.1\Methods_Exercise1a.dll
+C:\Users\hughs\OneDrive\Desktop\Repo\Methods_Exercise1a\Methods_Exercise1a\bin\Debug\netcoreapp3.1\Methods_Exercise1a.pdb
+C:\Users\hughs\OneDrive\Desktop\Repo\Methods_Exercise1a\Methods_Exercise1a\obj\Debug\netcoreapp3.1\Methods_Exercise1a.dll
+C:\Users\hughs\OneDrive\Desktop\Repo\Methods_Exercise1a\Methods_Exercise1a\obj\Debug\netcoreapp3.1\Methods_Exercise1a.pdb
+C:\Users\hughs\OneDrive\Desktop\Repo\Methods_Exercise1a\Methods_Exercise1a\obj\Debug\netcoreapp3.1\Methods_Exercise1a.genruntimeconfig.cache
